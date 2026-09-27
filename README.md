@@ -62,3 +62,7 @@ Preferred attribution:
 Ryan Wang / ryanryzohm — North American Ramp Meter Inventory
 
 Third-party maps, imagery, source materials, trademarks, and other third-party content are not included under this license and remain subject to their respective owners' terms.
+
+Suggested citation:
+
+Wang, Ryan. North American Ramp Meter Inventory. Version 1.0, 2026. GitHub: ryanryzohm.
